@@ -100,7 +100,7 @@ print(war_of_mine([21, -3, 20]))
 # 14
 # 21
 
-# Solution of task 2 has a little modification - an input is not a path to a filename. Moreover, tt is not a efficient
+# Solution of task 2 has a little modification - an input is not a path to a filename. Moreover, it is not an efficient
 # algorithm, but only a brute force solution.
 
 
