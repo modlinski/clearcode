@@ -3,7 +3,7 @@
 """
 :brief: Module containing solutions of ClearCode recruitment tasks.
 :author: Michal Modlinski
-:created: 15.02.2016
+:created: 15.02.2017
 """
 
 # Task 1: The odds are even in this war of mine.
